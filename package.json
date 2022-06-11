@@ -2,7 +2,7 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@2.2.2",
+  "packageManager": "pnpm@5.4.0",
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
