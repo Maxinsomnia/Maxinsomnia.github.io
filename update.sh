@@ -7,4 +7,5 @@ then info="default: update content"
 fi
 git add -A
 git commit -m "$info"
+git config --global http.sslVerify "false"
 git push origin hexo
