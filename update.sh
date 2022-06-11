@@ -2,7 +2,7 @@ hexo clean
 hexo g
 info=$1
 if ["$info" = ""];
-then info=":pencil: update content"
+then info="default: update content"
 fi
 git add -A
 git commit -m "$info"
