@@ -1,3 +1,4 @@
+pnpm i --lockfile-only
 hexo clean
 hexo g
 info=$1
