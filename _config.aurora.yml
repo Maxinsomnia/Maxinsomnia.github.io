@@ -171,7 +171,7 @@ valine:
   visitor: true
   lang: cn
   avatarForce: false
-  meta: ['昵称', '邮箱']
+  meta: ['nick', 'mail']
   requiredFields: []
   admin: 'Schindler'
   recentComment: true
