@@ -1,4 +1,4 @@
-cd C:\Users\Guo\blog\maxinsomnia.github.io
+cd C:\\Users\\Guo\\blog\\maxinsomnia.github.io
 pnpm i --lockfile-only
 hexo clean
 hexo g
