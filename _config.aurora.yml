@@ -152,7 +152,7 @@ gitalk:
   clientSecret: '021ccad9333f912f9c03cc04cce50c86f6d2d84c'
   repo: 'maxinsomnia.github.io/'
   owner: 'Maxinsomnia'
-  admin: ['Schindler']
+  admin: ['Maxinsomnia']
   id: 6bb84e70-5ea4-4f61-968c-a9c15fe11a80
   language: cn
   distractionFreeMode: true
