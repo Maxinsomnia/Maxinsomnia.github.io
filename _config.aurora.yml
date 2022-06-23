@@ -15,7 +15,7 @@ site:
   description: 性顽劣好风月，生无边界<br /> <br /> <b>“ 我的月亮永悬不落 ”</b>
   link: '\'
   language: cn
-  multi_language: true
+  multi_language: false
   logo: https://img-blog.csdnimg.cn/20210313122054101.png
   avatar: https://img-blog.csdnimg.cn/20210313122054101.png
   beian:
