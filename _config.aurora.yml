@@ -150,7 +150,7 @@ gitalk:
   autoExpand: true
   clientID: 'f68a07b2ec98b9f0a66a'
   clientSecret: '021ccad9333f912f9c03cc04cce50c86f6d2d84c'
-  repo: 'maxinsomnia.github.io/'
+  repo: 'maxinsomnia.github.io'
   owner: 'Maxinsomnia'
   admin: ['Maxinsomnia']
   id: 6bb84e70-5ea4-4f61-968c-a9c15fe11a80
