@@ -8,6 +8,4 @@ fi
 git add -A
 git commit -m "$info"
 git config --global http.sslVerify "false"
-git config --global --unset http.proxy
-git config --global --unset https.proxy
 git push origin hexo
