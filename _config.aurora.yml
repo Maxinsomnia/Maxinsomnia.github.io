@@ -83,7 +83,7 @@ menu:
 #! @docs https://aurora.tridiamond.tech/guide/theme.html
 #! ---------------------------------------------------------------
 theme:
-  dark_mode: 'auto'
+  dark_mode: false #'auto' false true 
   profile_shape: diamond # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
@@ -146,15 +146,15 @@ site_meta:
 
 # For local development only!
 gitalk:
-  enable: false
+  enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
-  repo: 'dev-blog-comments'
-  owner: 'TriDiamond'
-  admin: ['TriDiamond']
-  id: uid
-  language: en
+  clientID: 'f68a07b2ec98b9f0a66a'
+  clientSecret: '021ccad9333f912f9c03cc04cce50c86f6d2d84c'
+  repo: 'gittalk'
+  owner: 'Maxinsomnia'
+  admin: ['Schindler']
+  id: 6bb84e70-5ea4-4f61-968c-a9c15fe11a80
+  language: cn
   distractionFreeMode: true
   recentComment: true
   proxy: ''
@@ -163,7 +163,7 @@ gitalk:
 # see https://valine.js.org/quickstart.html
 # avatar: https://valine.js.org/avatar.html
 valine:
-  enable: true
+  enable: false
   app_id: 'MLzJ8sL2uB3CiKmc8Yd3M4Rr-MdYXbMMI'
   app_key: 'B9sVRHL3OMWn4jjjX7U9XmWp'
   avatar: 'robohash'
@@ -175,6 +175,7 @@ valine:
   requiredFields: []
   admin: 'Schindler'
   recentComment: true
+  serverURLs: https://mlzj8sl2.api.lncldglobal.com
 
 # Enable Busuanzi statistic plugin
 # see http://ibruce.info/2015/04/04/busuanzi/
