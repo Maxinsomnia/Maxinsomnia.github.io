@@ -16,8 +16,8 @@ site:
   link: '\'
   language: cn
   multi_language: false
-  logo: \svg\logo.jpg
-  avatar: \svg\logo.jpg
+  logo: https://cdn.jsdelivr.net/gh/Maxinsomnia/gittalk/logo.jpg
+  avatar: https://cdn.jsdelivr.net/gh/Maxinsomnia/gittalk/logo.jpg
   # avatar: https://img-blog.csdnimg.cn/20210313122054101.png
   beian:
     number: ''
