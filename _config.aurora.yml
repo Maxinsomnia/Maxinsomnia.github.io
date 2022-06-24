@@ -16,8 +16,9 @@ site:
   link: '\'
   language: cn
   multi_language: false
-  logo: https://img-blog.csdnimg.cn/20210313122054101.png
-  avatar: https://img-blog.csdnimg.cn/20210313122054101.png
+  logo: \svg\logo.jpg
+  avatar: \svg\logo.jpg
+  # avatar: https://img-blog.csdnimg.cn/20210313122054101.png
   beian:
     number: ''
     link: ''
@@ -84,7 +85,7 @@ menu:
 #! ---------------------------------------------------------------
 theme:
   dark_mode: false #'auto' false true 
-  profile_shape: diamond # support `circle`, `diamond`, `rounded`
+  profile_shape: circle # support `circle`, `diamond`, `rounded`
   feature: true
   gradient:
     # 原配方案 
